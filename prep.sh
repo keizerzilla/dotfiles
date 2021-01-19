@@ -18,7 +18,7 @@ sudo apt install libpcl-dev pcl-tools -y
 sudo apt install clementine vlc ffmpeg gimp -y
 
 # Programas utilitários
-sudo apt install keepassxc gparted grub-customizer -y
+sudo apt install keepassxc gparted grub-customizer unrar -y
 
 # Open Broadcast Studio
 sudo add-apt-repository ppa:obsproject/obs-studio -y
