@@ -11,9 +11,6 @@ sudo apt upgrade -y
 # Pacotes de desenvolvimento geral
 sudo apt install build-essential cmake git python3-dev python3-pip ipython3 default-jdk -y
 
-# Pacotes PCL
-sudo apt install libpcl-dev pcl-tools -y
-
 # Programas multimídia
 sudo apt install clementine vlc ffmpeg gimp -y
 
