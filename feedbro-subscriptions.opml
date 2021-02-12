@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+      <outline text="Grande Prêmio" title="Grande Prêmio" type="rss" 
+            xmlUrl="https://www.grandepremio.com.br//feed" htmlUrl="https://www.grandepremio.com.br"/>
+      <outline text="Brigadas Populares" title="Brigadas Populares" type="rss" 
+            xmlUrl="https://brigadaspopulares.org.br/feed/" htmlUrl="https://brigadaspopulares.org.br"/>
+      <outline text="Partido Comunista Brasileiro" title="Partido Comunista Brasileiro" type="rss" 
+            xmlUrl="https://pcb.org.br/portal2/feed/" htmlUrl="https://pcb.org.br/portal2"/>
+      <outline text="Revista Opera" title="Revista Opera" type="rss" 
+            xmlUrl="https://revistaopera.com.br/feed/" htmlUrl="https://revistaopera.com.br"/>
+      <outline text="Blog da Boitempo" title="Blog da Boitempo" type="rss" 
+            xmlUrl="https://blogdaboitempo.com.br/feed/" htmlUrl="https://blogdaboitempo.com.br"/>
+      <outline text="RaceFans" title="RaceFans" type="rss" 
+            xmlUrl="https://www.racefans.net/feed/" htmlUrl="https://www.racefans.net"/>
+</body>
+</opml>
