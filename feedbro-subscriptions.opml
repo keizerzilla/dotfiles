@@ -16,5 +16,9 @@
             xmlUrl="https://blogdaboitempo.com.br/feed/" htmlUrl="https://blogdaboitempo.com.br"/>
       <outline text="RaceFans" title="RaceFans" type="rss" 
             xmlUrl="https://www.racefans.net/feed/" htmlUrl="https://www.racefans.net"/>
+      <outline text="Marcelo Bamonte Medium" title="Marcelo Bamonte Medium" type="rss" 
+            xmlUrl="https://medium.com/feed/@marcelobamonteseoane" htmlUrl="https://medium.com/@marcelobamonteseoane?source=rss-82e32709c39f------2"/>
+      <outline text="AutoCore Robótica Blog" title="AutoCore Robótica Blog" type="rss" 
+            xmlUrl="https://autocorerobotica.blog.br/feed/" htmlUrl="https://autocorerobotica.blog.br"/>
 </body>
 </opml>
