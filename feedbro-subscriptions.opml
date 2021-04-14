@@ -20,5 +20,13 @@
             xmlUrl="https://medium.com/feed/@marcelobamonteseoane" htmlUrl="https://medium.com/@marcelobamonteseoane?source=rss-82e32709c39f------2"/>
       <outline text="AutoCore Robótica Blog" title="AutoCore Robótica Blog" type="rss" 
             xmlUrl="https://autocorerobotica.blog.br/feed/" htmlUrl="https://autocorerobotica.blog.br"/>
+      <outline text="Brasil de Fato" title="Brasil de Fato" type="rss" 
+            xmlUrl="https://www.brasildefato.com.br/rss2.xml" htmlUrl="www.brasildefato.com.br"/>
+      <outline text="Partido Comunista Revolucionário" title="Partido Comunista Revolucionário" type="rss" 
+            xmlUrl="https://pcrbrasil.org//feed" htmlUrl="https://pcrbrasil.org"/>
+      <outline text="Congresso em Foco" title="Congresso em Foco" type="rss" 
+            xmlUrl="https://congressoemfoco.uol.com.br/feed/" htmlUrl="https://congressoemfoco.uol.com.br"/>
+      <outline text="Blog Nildo Ouriques" title="Blog Nildo Ouriques" type="rss" 
+            xmlUrl="https://nildouriques.blogspot.com/feeds/posts/default" htmlUrl="https://nildouriques.blogspot.com/"/>
 </body>
 </opml>
