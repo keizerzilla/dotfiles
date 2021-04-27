@@ -1,0 +1,17 @@
+7-zip
+adobe acrobat reader
+firefox
+deluge
+discord
+github desktop
+java
+keepassxc
+libreoffice
+logitech g hub
+notepad++
+obs studio
+paintnet
+python 3.8
+telegram desktop
+winamp
+windows terminal preview
