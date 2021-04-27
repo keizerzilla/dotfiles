@@ -12,6 +12,7 @@ notepad++
 obs studio
 paintnet
 python 3.8
+steam
 telegram desktop
 winamp
 windows terminal preview
