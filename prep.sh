@@ -19,6 +19,9 @@ sudo apt install clementine vlc ffmpeg gimp -y
 # Programas utilitários
 sudo apt install keepassxc gparted grub-customizer unrar gdebi -y
 
+# LaTeX
+sudo apt install texlive texlive-xetex texlive-latex-extra pandoc -y
+
 # Open Broadcast Studio
 sudo add-apt-repository ppa:obsproject/obs-studio -y
 sudo apt update
