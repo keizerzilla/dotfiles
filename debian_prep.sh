@@ -22,6 +22,9 @@ sudo apt install keepassxc gparted grub-customizer unrar gdebi -y
 # LaTeX
 sudo apt install texlive texlive-xetex texlive-latex-extra pandoc -y
 
+# Suporte a pacotes Python
+sudo apt install graphviz graphviz-dev -y
+
 # Open Broadcast Studio
 sudo add-apt-repository ppa:obsproject/obs-studio -y
 sudo apt update
@@ -31,4 +34,4 @@ sudo apt install obs-studio -y
 sudo apt autoremove -y
 
 # Bibliotecas Python
-pip3 install --user numpy scipy pandas matplotlib seaborn scikit-learn scikit-image parse open3d opencv-python spacy kaggle category_encoders jupyterlab youtube_dl optuna
+pip3 install --user numpy scipy pandas matplotlib seaborn scikit-learn scikit-image parse open3d opencv-python spacy kaggle category_encoders jupyterlab youtube_dl optuna pygraphviz
