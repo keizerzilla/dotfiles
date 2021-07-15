@@ -34,4 +34,6 @@ sudo apt install obs-studio -y
 sudo apt autoremove -y
 
 # Bibliotecas Python
-pip3 install --user numpy scipy pandas matplotlib seaborn scikit-learn scikit-image parse open3d opencv-python spacy kaggle category_encoders jupyterlab youtube_dl optuna pygraphviz xlrd
+pip3 install --user --upgrade numpy scipy pandas matplotlib seaborn scikit-learn scikit-image open3d opencv-python spacy
+pip3 install --user --upgrade parse kaggle category_encoders jupyterlab youtube_dl optuna pygraphviz xlrd pyglet
+pip3 install --user --upgrade plotly dash jupyter-dash
