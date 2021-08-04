@@ -33,6 +33,9 @@ sudo apt install obs-studio -y
 # Limpando quaisquer pacotes desnecessários
 sudo apt autoremove -y
 
+# Atualizando pip
+pip3 install --upgrade pip
+
 # Bibliotecas Python
 pip3 install --user --upgrade numpy scipy pandas matplotlib seaborn scikit-learn scikit-image open3d opencv-python spacy
 pip3 install --user --upgrade parse kaggle category_encoders jupyterlab youtube_dl optuna pygraphviz xlrd pyglet
