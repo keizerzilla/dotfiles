@@ -4,7 +4,7 @@
 # email:       artur.rodrigues26@gmail.com
 # github:      htttps://github.com/keizerzilla
 # created:     23/12/2020
-# description: Script que prepara um ambiente Debian-based ao meu gosto.
+# description: Script que prepara um ambiente Debian ao meu gosto.
 
 # atualizando lista de pacotes de base
 sudo apt update
@@ -17,7 +17,7 @@ sudo apt install build-essential cmake git python3-dev python3-pip ipython3 defa
 sudo apt install clementine vlc ffmpeg gimp -y
 
 # Programas utilitários
-sudo apt install keepassxc gparted grub-customizer unrar gdebi -y
+sudo apt install keepassxc gparted grub-customizer gdebi -y
 
 # LaTeX
 sudo apt install texlive texlive-xetex texlive-latex-extra pandoc -y
