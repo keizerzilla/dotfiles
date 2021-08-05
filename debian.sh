@@ -17,7 +17,7 @@ sudo apt install build-essential cmake git python3-dev python3-pip ipython3 defa
 sudo apt install clementine vlc ffmpeg gimp -y
 
 # Programas utilitários
-sudo apt install keepassxc gparted grub-customizer gdebi -y
+sudo apt install keepassxc gparted grub-customizer gdebi openvpn -y
 
 # LaTeX
 sudo apt install texlive texlive-xetex texlive-latex-extra pandoc -y
