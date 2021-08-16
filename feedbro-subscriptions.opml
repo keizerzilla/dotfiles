@@ -4,8 +4,8 @@
 <title>Feed Subscriptions</title>
 </head>
 <body>
-      <outline text="Grande Prêmio" title="Grande Prêmio" type="rss" 
-            xmlUrl="https://www.grandepremio.com.br//feed" htmlUrl="https://www.grandepremio.com.br"/>
+      <outline text="RaceFans" title="RaceFans" type="rss" 
+            xmlUrl="https://www.racefans.net/feed/" htmlUrl="https://www.racefans.net"/>
       <outline text="Brigadas Populares" title="Brigadas Populares" type="rss" 
             xmlUrl="https://brigadaspopulares.org.br/feed/" htmlUrl="https://brigadaspopulares.org.br"/>
       <outline text="Partido Comunista Brasileiro" title="Partido Comunista Brasileiro" type="rss" 
@@ -14,19 +14,19 @@
             xmlUrl="https://revistaopera.com.br/feed/" htmlUrl="https://revistaopera.com.br"/>
       <outline text="Blog da Boitempo" title="Blog da Boitempo" type="rss" 
             xmlUrl="https://blogdaboitempo.com.br/feed/" htmlUrl="https://blogdaboitempo.com.br"/>
-      <outline text="RaceFans" title="RaceFans" type="rss" 
-            xmlUrl="https://www.racefans.net/feed/" htmlUrl="https://www.racefans.net"/>
-      <outline text="Marcelo Bamonte Medium" title="Marcelo Bamonte Medium" type="rss" 
-            xmlUrl="https://medium.com/feed/@marcelobamonteseoane" htmlUrl="https://medium.com/@marcelobamonteseoane?source=rss-82e32709c39f------2"/>
-      <outline text="AutoCore Robótica Blog" title="AutoCore Robótica Blog" type="rss" 
-            xmlUrl="https://autocorerobotica.blog.br/feed/" htmlUrl="https://autocorerobotica.blog.br"/>
-      <outline text="Brasil de Fato" title="Brasil de Fato" type="rss" 
-            xmlUrl="https://www.brasildefato.com.br/rss2.xml" htmlUrl="www.brasildefato.com.br"/>
-      <outline text="Partido Comunista Revolucionário" title="Partido Comunista Revolucionário" type="rss" 
-            xmlUrl="https://pcrbrasil.org//feed" htmlUrl="https://pcrbrasil.org"/>
       <outline text="Congresso em Foco" title="Congresso em Foco" type="rss" 
             xmlUrl="https://congressoemfoco.uol.com.br/feed/" htmlUrl="https://congressoemfoco.uol.com.br"/>
       <outline text="Blog Nildo Ouriques" title="Blog Nildo Ouriques" type="rss" 
             xmlUrl="https://nildouriques.blogspot.com/feeds/posts/default" htmlUrl="https://nildouriques.blogspot.com/"/>
+      <outline text="Órgano oficial del Partido Comunista de Cuba" title="Órgano oficial del Partido Comunista de Cuba" type="rss" 
+            xmlUrl="http://www.granma.cu//feed" htmlUrl="http://www.granma.cu"/>
+      <outline text="Bolivariando a Pátria Grande" title="Bolivariando a Pátria Grande" type="rss" 
+            xmlUrl="https://medium.com/feed/@bolivariandoapatriagrande" htmlUrl="https://medium.com/@bolivariandoapatriagrande?source=rss-cd24dc348b7a------2"/>
+      <outline text="Revolução Brasileira PSOL" title="Revolução Brasileira PSOL" type="rss" 
+            xmlUrl="https://revolucaobrasileira.org/feed/" htmlUrl="https://revolucaobrasileira.org"/>
+      <outline text="Centralidade do Trabalho PSOL" title="Centralidade do Trabalho PSOL" type="rss" 
+            xmlUrl="https://centralidadedotrabalho.com.br/feed/" htmlUrl="https://centralidadedotrabalho.com.br"/>
+      <outline text="ONEMANDOOM: WAD Reviews" title="ONEMANDOOM: WAD Reviews" type="rss" 
+            xmlUrl="https://onemandoom.blogspot.com/feeds/posts/default" htmlUrl="https://onemandoom.blogspot.com/"/>
 </body>
 </opml>
