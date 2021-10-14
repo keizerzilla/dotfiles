@@ -10,7 +10,7 @@
 pip3 install --upgrade pip
 
 # Ciência de dados
-pip3 install --user --upgrade numpy scipy pandas xlrd kaggle jupyterlab
+pip3 install --user --upgrade numpy scipy pandas xlrd openpyxl kaggle jupyterlab
 
 # Visualização
 pip3 install --user --upgrade matplotlib seaborn plotly dash jupyter-dash pygraphviz
