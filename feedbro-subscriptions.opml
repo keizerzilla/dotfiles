@@ -12,16 +12,10 @@
             xmlUrl="https://pcb.org.br/portal2/feed/" htmlUrl="https://pcb.org.br/portal2"/>
       <outline text="Revista Opera" title="Revista Opera" type="rss" 
             xmlUrl="https://revistaopera.com.br/feed/" htmlUrl="https://revistaopera.com.br"/>
-      <outline text="Blog da Boitempo" title="Blog da Boitempo" type="rss" 
-            xmlUrl="https://blogdaboitempo.com.br/feed/" htmlUrl="https://blogdaboitempo.com.br"/>
       <outline text="Congresso em Foco" title="Congresso em Foco" type="rss" 
             xmlUrl="https://congressoemfoco.uol.com.br/feed/" htmlUrl="https://congressoemfoco.uol.com.br"/>
       <outline text="Blog Nildo Ouriques" title="Blog Nildo Ouriques" type="rss" 
             xmlUrl="https://nildouriques.blogspot.com/feeds/posts/default" htmlUrl="https://nildouriques.blogspot.com/"/>
-      <outline text="Órgano oficial del Partido Comunista de Cuba" title="Órgano oficial del Partido Comunista de Cuba" type="rss" 
-            xmlUrl="http://www.granma.cu//feed" htmlUrl="http://www.granma.cu"/>
-      <outline text="Bolivariando a Pátria Grande" title="Bolivariando a Pátria Grande" type="rss" 
-            xmlUrl="https://medium.com/feed/@bolivariandoapatriagrande" htmlUrl="https://medium.com/@bolivariandoapatriagrande?source=rss-cd24dc348b7a------2"/>
       <outline text="Revolução Brasileira PSOL" title="Revolução Brasileira PSOL" type="rss" 
             xmlUrl="https://revolucaobrasileira.org/feed/" htmlUrl="https://revolucaobrasileira.org"/>
       <outline text="Centralidade do Trabalho PSOL" title="Centralidade do Trabalho PSOL" type="rss" 
