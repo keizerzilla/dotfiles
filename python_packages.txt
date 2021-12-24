@@ -19,3 +19,4 @@ opencv-python
 parse
 youtube_dl
 pyglet
+pillow
