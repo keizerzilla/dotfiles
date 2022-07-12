@@ -22,9 +22,9 @@
             xmlUrl="https://centralidadedotrabalho.com.br/feed/" htmlUrl="https://centralidadedotrabalho.com.br"/>
       <outline text="ONEMANDOOM: WAD Reviews" title="ONEMANDOOM: WAD Reviews" type="rss" 
             xmlUrl="https://onemandoom.blogspot.com/feeds/posts/default" htmlUrl="https://onemandoom.blogspot.com/"/>
-      <outline text="EBlog" title="EBlog" type="rss" 
-            xmlUrl="http://eblog.eb.mil.br/index.php/menu-easyblog.html?format=feed&amp;type=rss" htmlUrl="http://eblog.eb.mil.br/index.php/menu-easyblog.html"/>
       <outline text="Tom 7 Radar" title="Tom 7 Radar" type="rss" 
             xmlUrl="http://radar.spacebar.org/f/a/weblog/atom/1" htmlUrl="http://radar.spacebar.org"/>
+      <outline text="Hackaday" title="Hackaday" type="rss" 
+            xmlUrl="https://hackaday.com/feed/" htmlUrl="https://hackaday.com"/>
 </body>
 </opml>
