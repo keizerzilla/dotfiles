@@ -5,13 +5,7 @@
 </head>
 <body>
       <outline text="RaceFans" title="RaceFans" type="rss" 
-            xmlUrl="https://www.racefans.net/feed/" htmlUrl="https://www.racefans.net"/>
-      <outline text="Brigadas Populares" title="Brigadas Populares" type="rss" 
-            xmlUrl="https://brigadaspopulares.org.br/feed/" htmlUrl="https://brigadaspopulares.org.br"/>
-      <outline text="Partido Comunista Brasileiro" title="Partido Comunista Brasileiro" type="rss" 
-            xmlUrl="https://pcb.org.br/portal2/feed/" htmlUrl="https://pcb.org.br/portal2"/>
-      <outline text="Revista Opera" title="Revista Opera" type="rss" 
-            xmlUrl="https://revistaopera.com.br/feed/" htmlUrl="https://revistaopera.com.br"/>
+            xmlUrl="https://www.racefans.net/feed/" htmlUrl="https://www.racefans.net/"/>
       <outline text="Congresso em Foco" title="Congresso em Foco" type="rss" 
             xmlUrl="https://congressoemfoco.uol.com.br/feed/" htmlUrl="https://congressoemfoco.uol.com.br"/>
       <outline text="Blog Nildo Ouriques" title="Blog Nildo Ouriques" type="rss" 
