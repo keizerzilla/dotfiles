@@ -1,6 +1,6 @@
 # dotfiles
 
-Arquivos de configuração dos programas que eu mais uso, além de scripts de configuração e outros arquivos que eu julgo utéis.
+Arquivos de configuração dos programas que eu mais uso, além de scripts de automação e outros arquivos que eu julgo úteis.
 
 ## Licença
 
