@@ -20,5 +20,7 @@
             xmlUrl="http://radar.spacebar.org/f/a/weblog/atom/1" htmlUrl="http://radar.spacebar.org"/>
       <outline text="Hackaday" title="Hackaday" type="rss" 
             xmlUrl="https://hackaday.com/feed/" htmlUrl="https://hackaday.com"/>
+      <outline text="QTC ECRA" title="QTC ECRA" type="rss" 
+            xmlUrl="https://qtc.ecra.club/feeds/posts/default" htmlUrl="https://qtc.ecra.club/"/>
 </body>
 </opml>
