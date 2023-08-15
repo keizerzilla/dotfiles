@@ -5,7 +5,7 @@
 </head>
 <body>
       <outline text="RaceFans" title="RaceFans" type="rss" 
-            xmlUrl="https://www.racefans.net/feed/" htmlUrl="https://www.racefans.net/"/>
+            xmlUrl="https://www.racefans.net/feed/" htmlUrl="https://racefans.net/"/>
       <outline text="Blog Nildo Ouriques" title="Blog Nildo Ouriques" type="rss" 
             xmlUrl="https://nildouriques.blogspot.com/feeds/posts/default" htmlUrl="https://nildouriques.blogspot.com/"/>
       <outline text="ONEMANDOOM: WAD Reviews" title="ONEMANDOOM: WAD Reviews" type="rss" 
@@ -14,13 +14,13 @@
             xmlUrl="http://radar.spacebar.org/f/a/weblog/atom/1" htmlUrl="http://radar.spacebar.org"/>
       <outline text="Hackaday" title="Hackaday" type="rss" 
             xmlUrl="https://hackaday.com/feed/" htmlUrl="https://hackaday.com"/>
-      <outline text="QTC ECRA" title="QTC ECRA" type="rss" 
-            xmlUrl="https://qtc.ecra.club/feeds/posts/default" htmlUrl="https://qtc.ecra.club/"/>
-      <outline text="Q R P e r" title="Q R P e r" type="rss" 
-            xmlUrl="https://qrper.com/feed/" htmlUrl="https://qrper.com"/>
-      <outline text="One Transistor" title="One Transistor" type="rss" 
-            xmlUrl="https://www.onetransistor.eu/feeds/posts/default" htmlUrl="https://www.onetransistor.eu/"/>
       <outline text="IELA" title="IELA" type="rss" 
             xmlUrl="https://iela.ufsc.br//feed" htmlUrl="https://iela.ufsc.br/"/>
+      <outline text="Disparada" title="Disparada" type="rss" 
+            xmlUrl="https://disparada.com.br/feed/" htmlUrl="https://disparada.com.br"/>
+      <outline text="Saveitforparts" title="Saveitforparts" type="rss" 
+            xmlUrl="https://saveitforparts.wordpress.com/feed/" htmlUrl="https://saveitforparts.wordpress.com"/>
+      <outline text="Resourceaholic" title="Resourceaholic" type="rss" 
+            xmlUrl="https://www.resourceaholic.com/feeds/posts/default" htmlUrl="https://www.resourceaholic.com/"/>
 </body>
 </opml>
